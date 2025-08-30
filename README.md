@@ -6,6 +6,5 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnpaulmacanas&theme=radical)
 
-![Header](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 
